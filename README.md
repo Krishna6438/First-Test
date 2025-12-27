@@ -1,4 +1,4 @@
-# Databricks & SQL Assessment Banks – Console Applications (C#)
+# First Weekly Test – Console Applications (C#)
 
 This repository contains **two console-based C# projects** developed as part of assessment banks.  
 Both projects follow **clean OOP principles**, **menu-driven flow**, and **console-based interaction**.
