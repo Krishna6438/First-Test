@@ -22,7 +22,7 @@ A console-based utility for a retail trader to:
 - Menu-driven Program Flow
 
 ### 📸 Output Screenshot
-![QuickMart Output](screenshots/quickmart-output.png)
+![QuickMart Output](Screenshot/quickmart-output.png)
 
 ---
 
@@ -43,7 +43,7 @@ A simple billing system for a clinic to:
 - Validation Handling
 
 ### 📸 Output Screenshot
-![MediSure Output](screenshots/medisure-output.png)
+![MediSure Output](Screenshot/medisur-output.png)
 
 ---
 
